@@ -1,0 +1,14 @@
+{
+  "name": "js-ts-boilerplates",
+  "version": "1.0.0",
+  "main": "index.js",
+  "private": true,
+  "repository": "git@github.com:JoaoPauloLousada/js-ts-boilerplates.git",
+  "author": "Joao Lousada <joao.lousada@crosslend.com>",
+  "license": "MIT",
+  "workspaces": {
+    "packages": [
+      "packages/*"
+    ]
+  }
+}
